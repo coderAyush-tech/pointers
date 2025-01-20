@@ -9,7 +9,8 @@ int main(){
         }
          
     }
-   printf("%d",max);
+   ///printf("%d",max);
+   
    
 
     
